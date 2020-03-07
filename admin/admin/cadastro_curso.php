@@ -29,7 +29,7 @@
                   <option value="facul">Educação Superior</option>
                 </select><br><br>
                 <label for="exampleInputPassword1">Outro tipo de ensino?</label>
-              <input type="text" class="form-control" name="">
+              <input type="text" class="form-control" name="cod_tipo_ensino">
             </div>
           </div><br>
           <div class="row">
